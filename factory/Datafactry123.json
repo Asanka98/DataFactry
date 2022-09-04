@@ -1,0 +1,9 @@
+{
+	"name": "Datafactry123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80aa2dc5-95d2-4dfe-9db0-6bf390f646ae",
+		"tenantId": "44e3cf94-19c9-4e32-96c3-14f5bf01391a"
+	}
+}
